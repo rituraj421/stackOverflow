@@ -38,6 +38,7 @@ const LeftSidebar = () => {
           >
             <p>Users</p>
           </NavLink>
+          <a href='https://socialmidia.netlify.app/' rel='noreferrer' target='_blank' className='side-nav-links'><p>social media</p></a>
         </div>
       </nav>
     </div>
